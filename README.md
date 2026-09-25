@@ -33,7 +33,7 @@ Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** w
 ## 🌐 Connect With Me  
 
  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:mdnimurhossenovi@gmail.com)
 
 ---
 
