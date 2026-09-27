@@ -1,5 +1,5 @@
 # Hi 👋, I'm Md Nimur Hossen Ovi 
-### 🔭 I build things with JavaScript, React, and Node.js
+### 🔭 I build things with JavaScript, React, Next and Node.js
 
 ---
 
